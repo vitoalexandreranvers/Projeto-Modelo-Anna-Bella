@@ -1,0 +1,48 @@
+body{
+	background: #d2d2c1 url('imagens/fundo.png')
+	font: 16px Arial, Helvetica, sans-serif;
+	
+}
+
+#principal {
+	/*border: 1px solid red ; /* espesura da borda*/
+	width: 900px; /*largura da borda */
+	/*height: 500px ; // porem nao definialtura da borda */
+}
+
+#menu{
+	background: #c5c5b2;
+	/*border: 1px solid red;*/
+	padding: 18px;
+}
+
+#conteudo{
+	background: #e8e8d9;
+	padding: 10px; /*colocando um espaçamento no texto*/
+	text-align: justify; /* justificando o texto*/
+}
+a{
+	color:  #4b566a;
+	text-decoration: none; /*retirar o underline do link de menu*/
+	font-weight: bold;
+	/*border: 1px solid red; /* cria uma borda em volta dos links do menu*/
+	padding: 5px; /* formata a borda dos link do menu colocando um espaçamento dentro deles */
+
+}
+
+#rodape{
+	text-align: center;
+}
+
+.centralizar{
+	text-align: center; /* centralizando o texto do rodape*/
+}
+
+.img-campanha{
+	border: 10px solid #c3c3ae;
+}
+
+h1 {
+	color: #828271 ;
+	font-size: 1.2em ;
+}
